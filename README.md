@@ -26,6 +26,15 @@ https://github.com/roshancho/cloud-computing/blob/main/experiment-7
 ![image](https://user-images.githubusercontent.com/114463140/192696013-6443c3c5-9770-4c14-8c9f-9a1b8a038f15.png)
 ![image](https://user-images.githubusercontent.com/114463140/192696034-6b543727-de9c-4207-85c0-215ad270b93d.png)
 ![image](https://user-images.githubusercontent.com/114463140/192696050-e077ec36-0b14-4031-bd93-c36c5accbc3b.png)
+experiment 10
+![image](https://user-images.githubusercontent.com/114463140/192698189-8caa6a6f-97af-404f-9b15-33aa3402f0e7.png)
+![image](https://user-images.githubusercontent.com/114463140/192698243-9f9b4517-cbe2-4600-b2c7-ae3206578745.png)
+![image](https://user-images.githubusercontent.com/114463140/192698278-9380b959-72f5-4bee-962c-1b9f8d473680.png)
+![image](https://user-images.githubusercontent.com/114463140/192698339-857935d4-f8ee-45c7-a4e9-fecccf420fb0.png)
+![image](https://user-images.githubusercontent.com/114463140/192698304-80afcc16-5742-45fa-b945-c939df39ad90.png)
+![image](https://user-images.githubusercontent.com/114463140/192698408-1502e6cb-3054-465c-b483-8b93d1301f79.png)
+
+
 
 
 
