@@ -9,6 +9,7 @@ exp 9
 ![image](https://user-images.githubusercontent.com/114463140/192693124-69ed6ac7-f21b-4f29-ae3c-643c68c242ac.png)
 ![image](https://user-images.githubusercontent.com/114463140/192693147-536f3e2a-57dc-4c89-b8f3-24326540f9bc.png)
 experiment 6
+(https://github.com/roshancho/cloud-computing/blob/main/experiment%206)
 ![image](https://user-images.githubusercontent.com/114463140/192694150-1385767c-8d8c-4915-8e54-357389c69e21.png)
 ![image](https://user-images.githubusercontent.com/114463140/192694169-57a8b9ec-2fd0-4adf-97ac-0c54e95f0ad8.png)
 ![image](https://user-images.githubusercontent.com/114463140/192694182-802c85df-08cd-4694-8764-981d3ac9dd70.png)
